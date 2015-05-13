@@ -34,4 +34,4 @@ $.bind( me, 'afterLoaded', function( data ) {
 ```
 
 ###demo 手机扫描以下二维码体验
-![demo](/path/to/img.jpg)
+![demo](https://github.com/zhangchen2397/lazyLoad/blob/master/qrcode.png?raw=true)
